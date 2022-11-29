@@ -2,4 +2,4 @@
 
 echo 123;
 
-develop;
+echo 'develop';
